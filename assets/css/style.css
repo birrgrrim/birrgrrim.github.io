@@ -71,6 +71,16 @@ a:hover {
     margin-bottom: 0;
 }
 
+.project-links {
+    margin: 0.5em 0;
+    font-size: 0.9em;
+}
+
+.project-links a {
+    color: var(--link-color);
+    font-weight: 500;
+}
+
 /* Tags */
 .tags {
     margin-top: 0.5em;
